@@ -1,18 +1,6 @@
 # Sysadmin Lab
 
-Sysadmin Lab is an organization created to learn, build, and share knowledge in system administration, Linux, networking, and DevOps.
-
-### Purpose
-The goal of this organization is to gain practical knowledge in system administration, solve real-world problems, and increase the availability of technical resources, especially in Turkish. It also aims to support an open-source contribution culture.
-
-### Scope
-This organization covers Linux and shell usage, networking fundamentals (IP, subnetting, routing), system security, DevOps tools and automation, as well as server setup and management.
-
-### Contributions
-Contributors can make changes to repositories, submit pull requests, or open issues for suggestions.
-
-### Founder
-atursun
-
-### Note
-This organization will evolve over time with new projects and content.
+Sysadmin Lab is an organization created to learn, build, and share knowledge in system administration, Linux, networking, and DevOps. The main purpose of this organization is to gain practical, hands-on experience in system administration, solve real-world problems, and improve access to technical resources, especially in Turkish, while also encouraging an open-source contribution culture.
+This organization covers a wide range of topics including Linux and shell usage, networking fundamentals such as IP addressing, subnetting and routing, system security, DevOps tools and automation, as well as server setup and administration.
+Contributors are welcome to improve existing repositories, submit pull requests, or open issues to suggest ideas, improvements, or new features, making the projects more useful and collaborative over time.
+This organization is maintained by atursun (https://github.com/atursun) and will continue to evolve with new projects, learning materials, and practical implementations.
